@@ -1,0 +1,12 @@
+./kawa
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.env
+.coverage
+.idea
+.__pycache__
+services/__pycache__
+.env_dev
